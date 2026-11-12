@@ -1,0 +1,348 @@
+{
+  "title": "目标：简单而有效的常识管理 / The Goal",
+  "author": "Eliyahu M. Goldratt（高德拉特）",
+  "source_path": null,
+  "source_env": "GOLDRATT_THE_GOAL_TOC_SOURCE",
+  "sha256": "26af88d97ee0e401d4c49d7a8c82c3d59b8c8dc91d5d876f6daa2f6c7d7d17a4",
+  "source_lines": 9833,
+  "source_format": "PaddleOCR-VL-1.6 Markdown",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "晴天霹雳",
+      "start_line": 305,
+      "end_line": 540,
+      "file": "chapters/ch01.md",
+      "sections": []
+    },
+    {
+      "number": 2,
+      "title": "把我买下来",
+      "start_line": 541,
+      "end_line": 802,
+      "file": "chapters/ch02.md",
+      "sections": []
+    },
+    {
+      "number": 3,
+      "title": "人人自危",
+      "start_line": 803,
+      "end_line": 922,
+      "file": "chapters/ch03.md",
+      "sections": []
+    },
+    {
+      "number": 4,
+      "title": "机器人真的提高了生产力",
+      "start_line": 923,
+      "end_line": 1218,
+      "file": "chapters/ch04.md",
+      "sections": []
+    },
+    {
+      "number": 5,
+      "title": "目标是什么？",
+      "start_line": 1219,
+      "end_line": 1396,
+      "file": "chapters/ch05.md",
+      "sections": []
+    },
+    {
+      "number": 6,
+      "title": "工厂到底赚不赚钱？",
+      "start_line": 1397,
+      "end_line": 1664,
+      "file": "chapters/ch06.md",
+      "sections": []
+    },
+    {
+      "number": 7,
+      "title": "决心放手一搏",
+      "start_line": 1665,
+      "end_line": 1708,
+      "file": "chapters/ch07.md",
+      "sections": []
+    },
+    {
+      "number": 8,
+      "title": "有效产出、存货与营运费",
+      "start_line": 1709,
+      "end_line": 1946,
+      "file": "chapters/ch08.md",
+      "sections": [
+        [
+          1711,
+          "用"
+        ]
+      ]
+    },
+    {
+      "number": 9,
+      "title": "三个基本问题",
+      "start_line": 1947,
+      "end_line": 2258,
+      "file": "chapters/ch09.md",
+      "sections": []
+    },
+    {
+      "number": 10,
+      "title": "都包含“金钱”两个字",
+      "start_line": 2259,
+      "end_line": 2510,
+      "file": "chapters/ch10.md",
+      "sections": []
+    },
+    {
+      "number": 11,
+      "title": "我不要猜谜，我要解答",
+      "start_line": 2511,
+      "end_line": 2844,
+      "file": "chapters/ch11.md",
+      "sections": []
+    },
+    {
+      "number": 12,
+      "title": "工作永远都排第一位！",
+      "start_line": 2845,
+      "end_line": 2986,
+      "file": "chapters/ch12.md",
+      "sections": []
+    },
+    {
+      "number": 13,
+      "title": "荒野探险的启示",
+      "start_line": 2987,
+      "end_line": 3232,
+      "file": "chapters/ch13.md",
+      "sections": []
+    },
+    {
+      "number": 14,
+      "title": "火柴游戏与生产流程",
+      "start_line": 3233,
+      "end_line": 3539,
+      "file": "chapters/ch14.md",
+      "sections": [
+        [
+          3309,
+          "三。”我告诉他们。"
+        ]
+      ]
+    },
+    {
+      "number": 15,
+      "title": "恍然大悟",
+      "start_line": 3540,
+      "end_line": 3733,
+      "file": "chapters/ch15.md",
+      "sections": []
+    },
+    {
+      "number": 16,
+      "title": "太太离家时",
+      "start_line": 3734,
+      "end_line": 3849,
+      "file": "chapters/ch16.md",
+      "sections": [
+        [
+          3758,
+          "茱莉"
+        ]
+      ]
+    },
+    {
+      "number": 17,
+      "title": "危机处理",
+      "start_line": 3850,
+      "end_line": 4207,
+      "file": "chapters/ch17.md",
+      "sections": []
+    },
+    {
+      "number": 18,
+      "title": "寻找生产瓶颈",
+      "start_line": 4208,
+      "end_line": 4587,
+      "file": "chapters/ch18.md",
+      "sections": []
+    },
+    {
+      "number": 19,
+      "title": "钟纳发威",
+      "start_line": 4588,
+      "end_line": 5019,
+      "file": "chapters/ch19.md",
+      "sections": []
+    },
+    {
+      "number": 20,
+      "title": "人生也面临瓶颈",
+      "start_line": 5020,
+      "end_line": 5275,
+      "file": "chapters/ch20.md",
+      "sections": []
+    },
+    {
+      "number": 21,
+      "title": "小小的胜利",
+      "start_line": 5276,
+      "end_line": 5547,
+      "file": "chapters/ch21.md",
+      "sections": []
+    },
+    {
+      "number": 22,
+      "title": "老古董再度披挂上阵",
+      "start_line": 5548,
+      "end_line": 5685,
+      "file": "chapters/ch22.md",
+      "sections": []
+    },
+    {
+      "number": 23,
+      "title": "改革，再改革！",
+      "start_line": 5686,
+      "end_line": 5939,
+      "file": "chapters/ch23.md",
+      "sections": []
+    },
+    {
+      "number": 24,
+      "title": "问题蔓延了吗？",
+      "start_line": 5940,
+      "end_line": 6167,
+      "file": "chapters/ch24.md",
+      "sections": []
+    },
+    {
+      "number": 25,
+      "title": "忙碌，不代表有效率",
+      "start_line": 6168,
+      "end_line": 6403,
+      "file": "chapters/ch25.md",
+      "sections": []
+    },
+    {
+      "number": 26,
+      "title": "办法其实很简单",
+      "start_line": 6404,
+      "end_line": 6629,
+      "file": "chapters/ch26.md",
+      "sections": []
+    },
+    {
+      "number": 27,
+      "title": "这山还望那山高",
+      "start_line": 6630,
+      "end_line": 6841,
+      "file": "chapters/ch27.md",
+      "sections": []
+    },
+    {
+      "number": 28,
+      "title": "缩短生产周期",
+      "start_line": 6842,
+      "end_line": 7077,
+      "file": "chapters/ch28.md",
+      "sections": []
+    },
+    {
+      "number": 29,
+      "title": "成本会计的矛盾",
+      "start_line": 7078,
+      "end_line": 7379,
+      "file": "chapters/ch29.md",
+      "sections": []
+    },
+    {
+      "number": 30,
+      "title": "该来的终于来了",
+      "start_line": 7380,
+      "end_line": 7725,
+      "file": "chapters/ch30.md",
+      "sections": []
+    },
+    {
+      "number": 31,
+      "title": "最后的审判",
+      "start_line": 7726,
+      "end_line": 7911,
+      "file": "chapters/ch31.md",
+      "sections": []
+    },
+    {
+      "number": 32,
+      "title": "“常识”管理",
+      "start_line": 7912,
+      "end_line": 8051,
+      "file": "chapters/ch32.md",
+      "sections": []
+    },
+    {
+      "number": 33,
+      "title": "交换位置",
+      "start_line": 8052,
+      "end_line": 8309,
+      "file": "chapters/ch33.md",
+      "sections": []
+    },
+    {
+      "number": 34,
+      "title": "新官上任的难题",
+      "start_line": 8310,
+      "end_line": 8473,
+      "file": "chapters/ch34.md",
+      "sections": []
+    },
+    {
+      "number": 35,
+      "title": "混乱中建立秩序",
+      "start_line": 8474,
+      "end_line": 8633,
+      "file": "chapters/ch35.md",
+      "sections": []
+    },
+    {
+      "number": 36,
+      "title": "成本的世界VS. 有效产出的世界",
+      "start_line": 8634,
+      "end_line": 8855,
+      "file": "chapters/ch36.md",
+      "sections": []
+    },
+    {
+      "number": 37,
+      "title": "昨日是，今日非",
+      "start_line": 8856,
+      "end_line": 9047,
+      "file": "chapters/ch37.md",
+      "sections": []
+    },
+    {
+      "number": 38,
+      "title": "打破惰性",
+      "start_line": 9048,
+      "end_line": 9309,
+      "file": "chapters/ch38.md",
+      "sections": []
+    },
+    {
+      "number": 39,
+      "title": "还是瞎子摸象",
+      "start_line": 9310,
+      "end_line": 9559,
+      "file": "chapters/ch39.md",
+      "sections": []
+    },
+    {
+      "number": 40,
+      "title": "当自己的钟纳",
+      "start_line": 9560,
+      "end_line": 9833,
+      "file": "chapters/ch40.md",
+      "sections": []
+    }
+  ],
+  "backmatter_start_line": 9834,
+  "generated": "2026-11-12"
+}
